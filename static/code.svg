@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.2916665mm"
+   height="5.2916665mm"
+   viewBox="0 0 5.2916665 5.2916665"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="code.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="16"
+     inkscape:cx="-6.09375"
+     inkscape:cy="21.90625"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <filter
+       inkscape:label="Riddled"
+       inkscape:menu="Textures"
+       inkscape:menu-tooltip="Riddle the surface and add bump to images"
+       height="2.8636772"
+       y="-0.93183858"
+       width="2.4477193"
+       x="-0.72385964"
+       style="color-interpolation-filters:sRGB;"
+       id="filter59">
+      <feGaussianBlur
+         stdDeviation="0.5"
+         in="SourceGraphic"
+         result="result1"
+         id="feGaussianBlur55" />
+      <feTurbulence
+         type="fractalNoise"
+         baseFrequency="0.04"
+         numOctaves="10"
+         result="result0"
+         id="feTurbulence55" />
+      <feGaussianBlur
+         result="result8"
+         stdDeviation="1"
+         id="feGaussianBlur56" />
+      <feDisplacementMap
+         in2="result0"
+         in="result1"
+         xChannelSelector="R"
+         yChannelSelector="B"
+         scale="20"
+         result="result2"
+         id="feDisplacementMap56" />
+      <feComposite
+         result="result7"
+         operator="in"
+         in="result2"
+         in2="result8"
+         id="feComposite56" />
+      <feComposite
+         in2="result7"
+         result="fbSourceGraphic"
+         k2="0.15"
+         in="result2"
+         k1="2"
+         operator="arithmetic"
+         id="feComposite57" />
+      <feColorMatrix
+         values="1 0 0 -1 0 1 0 1 -1 0 1 0 0 -1 0 -0.8 -1 0 3.7 -2.6 "
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha"
+         type="matrix"
+         id="feColorMatrix57" />
+      <feGaussianBlur
+         stdDeviation="0.5"
+         result="result9"
+         id="feGaussianBlur57" />
+      <feSpecularLighting
+         surfaceScale="10"
+         specularExponent="3"
+         result="result11"
+         specularConstant="0.7"
+         id="feSpecularLighting57">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight57" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         in="result9"
+         lighting-color="rgb(255,255,255)"
+         result="result6"
+         diffuseConstant="0.4"
+         surfaceScale="50"
+         id="feDiffuseLighting58">
+        <feDistantLight
+           elevation="10"
+           azimuth="235"
+           id="feDistantLight58" />
+      </feDiffuseLighting>
+      <feBlend
+         result="result10"
+         mode="screen"
+         in2="result11"
+         id="feBlend58" />
+      <feComposite
+         in2="fbSourceGraphic"
+         in="result10"
+         result="result2"
+         operator="in"
+         id="feComposite58" />
+      <feComposite
+         k3="0.9"
+         k2="1"
+         operator="arithmetic"
+         in2="fbSourceGraphic"
+         id="feComposite59" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.411338"
+       id="rect1"
+       width="5.2860494"
+       height="5.2908268"
+       x="0.0040762024"
+       y="-0.00081945123"
+       rx="0"
+       ry="3.3045688" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2"
+     style="filter:url(#filter59);opacity:0.29526201">
+    <rect
+       style="opacity:1;fill:#131313;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       id="rect31"
+       width="2.4308593"
+       height="1.4386718"
+       x="1.7528646"
+       y="1.2402344"
+       ry="0" />
+    <rect
+       style="fill:#131313;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       id="rect31-2"
+       width="2.4308593"
+       height="1.4386718"
+       x="-0.51263034"
+       y="2.9765625"
+       ry="0" />
+    <rect
+       style="fill:#131313;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       id="rect31-2-3"
+       width="2.4308593"
+       height="1.4386718"
+       x="3.6876302"
+       y="-0.057877678"
+       ry="0" />
+    <rect
+       style="fill:#090909;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       id="rect31-1"
+       width="2.4308593"
+       height="1.4386718"
+       x="2.5714192"
+       y="3.1832681"
+       ry="0" />
+    <rect
+       style="fill:#090909;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       id="rect31-1-2"
+       width="2.4308593"
+       height="1.4386718"
+       x="0.33072916"
+       y="3.6545572"
+       ry="0" />
+    <rect
+       style="fill:#090909;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       id="rect31-1-2-7"
+       width="2.4308593"
+       height="1.4386718"
+       x="0.29765621"
+       y="0.46302083"
+       ry="0" />
+  </g>
+</svg>

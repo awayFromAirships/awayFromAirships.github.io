@@ -1,6 +1,10 @@
+
 # Personal website
 
-## how to import an article:
+## how to import an article and generate index
 
-I'm using pandoc as a templating engine, so do this:
-`pandoc -o output.html input.x --template=static/template.html `
+Drop the md file at the articles folder, and then run:
+```
+pandoc -o articles/output.html articles/input.md --template=static/template.html
+```
+
