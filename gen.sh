@@ -10,7 +10,7 @@ echo ""title: Index of articles""
 echo "```" > "articles/index.md"
 echo "" > "articles/index.md"
 echo "# Index of articles" > "articles/index.md"
-echo "I have not figured out how to sort articles in a reverse chronological order.. sorry" > "articles/index.md"
+# echo "I have not figured out how to sort articles in a reverse chronological order.. sorry" > "articles/index.md"
 find articles/ -name "*.html" -type f -printf "%f\n" | while read file; do
   echo "* [${file%.html}]($file)" >> "articles/index.md"
 done

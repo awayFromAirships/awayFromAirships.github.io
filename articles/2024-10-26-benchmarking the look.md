@@ -1,10 +1,10 @@
 ---
-title: "Benchmarking the aesthetic look of CSS"
-date: 1729868725
+title: "Benchmarking the aesthetic look of the site"
+
 ---
 
 
-# Benchmarking the aesthetic look of CSS
+# Benchmarking the aesthetic look of the site
 ## some code
 ```
 def fib(n):
