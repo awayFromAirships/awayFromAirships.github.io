@@ -32,14 +32,10 @@ nav {
   /* overflow: hidden; */
 }
 nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+  display: flex;
+  justify-content: space-between;
 }
 
-nav li {
-  float: left;
-}
 p {
   text-indent: 40px;
 }
