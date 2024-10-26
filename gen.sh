@@ -17,3 +17,7 @@ done
 
 pandoc -o articles/index.html articles/index.md --template=static/template.html
 pandoc -o index.html index.md --template=static/template.html
+
+git add .
+git commit -m "`date +%s`"
+git push

@@ -29,7 +29,7 @@ header {
 }
 nav {
   background-image: url("nav.svg");
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 nav ul {
   list-style-type: none;
