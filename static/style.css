@@ -27,12 +27,7 @@ header {
   /* color: white; */
   
 }
-.right-header {
-  float: right;
-  width: 30%;
-  background-color: #e0e0e0;
-  padding: 20px;
-}
+
 
 
 nav {
@@ -42,6 +37,10 @@ nav {
 
 nav ul {
   display: flex;
+}
+nav ul li {
+  padding: 5px 10px;
+  margin: 0 5px;
 }
 
 
