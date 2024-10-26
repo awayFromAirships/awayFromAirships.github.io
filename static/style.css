@@ -31,15 +31,8 @@ nav {
   background-image: url("nav.svg");
   overflow: hidden;
 }
-nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
 
-nav li {
-  float: left;
-}
+
 p {
   text-indent: 40px;
 }
