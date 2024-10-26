@@ -65,7 +65,9 @@ This text will get a [^1].
 
 # some math
 
-$\prod_{i=a}^{b} f(i)$
+$$
+\prod_{i=a}^{b} f(i)
+$$
 
 
 
