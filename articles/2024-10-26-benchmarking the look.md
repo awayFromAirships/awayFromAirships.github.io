@@ -63,6 +63,10 @@ This text will get a [^1].
 
 [^1]: carrots
 
+# some math
+
+$\prod_{i=a}^{b} f(i)$
+
 
 
 
