@@ -13,7 +13,7 @@ body{
   
   width: 600px; 
   margin: 0 auto;
-  font-size: 14px;
+  font-size: medium;
   background-image: url("body.svg");
   font-family: Verdana, sans-serif;  
 }
@@ -33,6 +33,7 @@ header {
 nav {
   background-image: url("nav.svg");
   overflow: hidden;
+  font-size: large ;
 }
 
 nav ul {
