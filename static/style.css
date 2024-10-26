@@ -31,10 +31,15 @@ nav {
   background-image: url("nav.svg");
   /* overflow: hidden; */
 }
-nav ul li {
+nav ul {
+  display: flex;
+  justify-content: space-between;
   margin-right: 20px;
 }
 
+nav li {
+  float: left;
+}
 p {
   text-indent: 40px;
 }
