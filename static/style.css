@@ -32,6 +32,10 @@ nav {
   overflow: hidden;
 }
 
+nav ul {
+  display: flex;
+}
+
 
 p {
   text-indent: 40px;
