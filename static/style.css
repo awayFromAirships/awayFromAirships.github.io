@@ -74,7 +74,7 @@ code {
 
 article {
   text-align: center;
-  width: 30%;
+  width: calc(33.33% -10px);
   box-sizing: border-box;
 }
 article img {
@@ -93,9 +93,9 @@ article p {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  gap: 10px;
+  gap: 15px;
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 900px;
 
 }
 
