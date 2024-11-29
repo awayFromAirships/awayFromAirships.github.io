@@ -73,12 +73,11 @@ code {
 }
 
 article {
-      text-align: center;
+  text-align: center;
 }
 article img {
   width: 150px;
   height: 150px;
-  background-color: blue;
 }
 article h3 {
   font-size: 18px;
