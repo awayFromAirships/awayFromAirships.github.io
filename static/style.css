@@ -74,7 +74,8 @@ code {
 
 article {
   text-align: center;
-  width: 250px;
+  width: 30%;
+  box-sizing: border-box;
 }
 article img {
   width: 150px;
@@ -91,9 +92,11 @@ article p {
 .catalog {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-between;
   gap: 20px;
-  margin: 20px 0;
+  margin: 0 auto;
+  max-width: 800px;
+
 }
 
 footer {  
