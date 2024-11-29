@@ -73,8 +73,9 @@ code {
 }
 
 article {
+  flex: 1 1 calc(33.33%)
   text-align: center;
-  width: calc(33.33% -10px);
+  width: 30%;
   box-sizing: border-box;
 }
 article img {
@@ -84,18 +85,20 @@ article img {
 article h3 {
   font-size: 18px;
   margin: 10px 0 5px;
+  word-wrap: break-word;
 }
 article p {
   font-size: 14px;
   margin: 0;
+  word-wrap: break-word;
 }
 .catalog {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  gap: 15px;
+  gap: 10px;
   margin: 0 auto;
-  max-width: 900px;
+  max-width: 800px;
 
 }
 
