@@ -58,7 +58,7 @@ blockquote {
 img {
   max-width: 100%;
   height: auto;
-  filter: drop-shadow(8px 8px 16px rgba(0, 0, 0, 0.5));
+  box-shadow: 10px 10px 20px rgba(0,0,0,0.5); 
 }
 
 
