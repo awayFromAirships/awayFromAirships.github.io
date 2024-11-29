@@ -2,7 +2,7 @@
 title: Images
 ---
 # Images
-Here's a catalogue of some images I've made.
+Here's a catalogue of some images I've made in no particular order.
 
 <main class="catalog">
 <article>
@@ -60,6 +60,12 @@ Here's a catalogue of some images I've made.
 <h3> Flag of Latvian SSR</h3>
 <p>Incorporation of various elements in the Iskolat flag into Latvian SSR flag</p>
 </article>
+<article>
+<img src="static/images/czechosorbianFlag.png" alt="1">
+<h3> Flag of Latvian SSR</h3>
+<p>Flag of Czecho-Sorbia.</p>
+</article>
+
 </main>
 
 
