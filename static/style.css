@@ -72,8 +72,22 @@ code {
   
 }
 
-
-
+article {
+      text-align: center;
+}
+article img {
+  width: 150px;
+  height: 150px;
+  background-color: blue;
+}
+article h3 {
+  font-size: 18px;
+  margin: 10px 0 5px;
+}
+article p {
+  font-size: 14px;
+  margin: 0;
+}
 footer {
   
   background-image: url("footer.svg") ;
