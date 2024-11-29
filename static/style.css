@@ -74,7 +74,7 @@ code {
 
 article {
   text-align: center;
-  width: 30%;
+  width: calc(33.33% -10px);
   box-sizing: border-box;
 }
 article img {
