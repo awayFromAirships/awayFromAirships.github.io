@@ -26,7 +26,7 @@ Here's a catalogue of some images I've made.
 <p>Redesign of the twitter logo</p>
 </article>
 <article>
-<img src="finallarouchelat.png" alt="Latvian Lyndon LaRouche">
+<img src="static/images/finallarouchelat.png" alt="Latvian Lyndon LaRouche">
 <h3> Latvian Lyndon LaRouche</h3>
 <p>Latvian Lyndon LaRouche agrees.</p>
 </article>
@@ -40,7 +40,36 @@ Here's a catalogue of some images I've made.
 <h3> Flag of Belaro-Daugava SSR</h3>
 <p>Flag of Daugava with an additional Belarusian stripe.</p>
 </article>
-
+<article>
+<img src="static/images/daugva.png" alt="1">
+<h3> Flag of Belaro-Daugava SSR</h3>
+<p>Flag of Daugava with an additional Belarusian stripe.</p>
+</article>
+<article>
+<img src="static/images/lithoBelarus.png" alt="1">
+<h3> Flag of Belaro-Daugava SSR</h3>
+<p>Flag of Daugava with an additional Belarusian stripe.</p>
+</article>
+<article>
+<img src="static/images/sorbingtime.png" alt="1">
+<h3> Flag of Belaro-Daugava SSR</h3>
+<p>Flag of Daugava with an additional Belarusian stripe.</p>
+</article>
+<article>
+<img src="static/images/sorbingtime2.png" alt="1">
+<h3> Flag of Belaro-Daugava SSR</h3>
+<p>Flag of Daugava with an additional Belarusian stripe.</p>
+</article>
+<article>
+<img src="static/images/wavyIskolatWithRiver.png" alt="1">
+<h3> Flag of Belaro-Daugava SSR</h3>
+<p>Flag of Daugava with an additional Belarusian stripe.</p>
+</article>
+<article>
+<img src="static/images/wavyIskolatWithStar.png" alt="1">
+<h3> Flag of Belaro-Daugava SSR</h3>
+<p>Flag of Daugava with an additional Belarusian stripe.</p>
+</article>
 </main>
 
 
