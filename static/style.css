@@ -58,7 +58,6 @@ blockquote {
 img {
   max-width: 100%;
   height: auto;
-  box-shadow: 10px 10px 20px rgba(0,0,0,0.5); 
 }
 
 
@@ -82,6 +81,8 @@ article {
 article img {
   width: 150px;
   height: 150px;
+  box-shadow: 10px 10px 20px rgba(0,0,0,0.5); 
+
 }
 article h3 {
   font-size: 18px;
