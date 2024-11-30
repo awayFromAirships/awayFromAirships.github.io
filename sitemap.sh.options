@@ -1,5 +1,6 @@
 -prune -iname "*.html"
 ! -iname robots.txt
+! -iname google7eb0b1e91c16500b.html
 ! -iname sitemap.\*
 ! -iname .\*
 ! -path ./css/\*
