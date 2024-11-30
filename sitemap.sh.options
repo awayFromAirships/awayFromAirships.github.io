@@ -1,4 +1,4 @@
--prune
+-prune -iname "*.html"
 ! -iname robots.txt
 ! -iname sitemap.\*
 ! -iname .\*
