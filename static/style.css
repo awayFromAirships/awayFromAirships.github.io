@@ -108,8 +108,8 @@ article p {
   min-width: 200px;
   max-width: 400px;
   width: 100%
-  background-color: #f4f4f4;
-  padding: 20px;
+  /*background-color: #f4f4f4;*/
+padding: 20px;
   box-sizing: border-box;
   border: 1px solid #ddd;
 }
