@@ -105,11 +105,24 @@ article p {
 
 }
 
+.navbar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 200px;
+  background-color: #333;
+  color: white;
+  border-left: 2px solid #fff;
+  padding-top: 20px;
+}
+
+
 footer {  
   
   background-image: url("footer.svg") ;
   color: white;
   text-align: center;
   height: 100vh;
-  w
+  
 }
