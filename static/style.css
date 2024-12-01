@@ -107,7 +107,7 @@ article p {
 }
 
 .links {
-  background: linear-gradient(to right, #333, #fff);
+  background: url("linkbar.svg");
 }
 
 
