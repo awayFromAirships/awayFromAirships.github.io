@@ -7,10 +7,6 @@ html {
   background-image: url("wallpaperMaybe.svg");
   background-attachment: fixed;
 
-}
-ul {
-  list-style-type: none;
-}
 
 body{ 
   
@@ -42,6 +38,7 @@ nav {
 
 nav ul {
   display: flex;
+  list-style-type: none;
 }
 nav ul li {
   padding: 5px 10px;
