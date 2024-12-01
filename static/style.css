@@ -104,18 +104,6 @@ article p {
   max-width: 800px;
 
 }
-aside {
-  position: absolute;
-  top: 0;
-  right: -100px;
-  width: 100px;
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
 
 footer {  
   
