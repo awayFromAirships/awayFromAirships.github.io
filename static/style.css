@@ -113,6 +113,7 @@ article p {
   top: 0;
   border-left: 1px solid #ddd;
   padding: 20px;
+  float: right;
 }
 
 
