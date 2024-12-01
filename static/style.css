@@ -34,7 +34,7 @@ nav {
   /*background-image: url("nav.svg");*/
   background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 9%, rgba(106,0,126,1) 100%);
   overflow: hidden;
-  font-size: large ;
+  font-size: medium ;
 }
 
 nav ul {
