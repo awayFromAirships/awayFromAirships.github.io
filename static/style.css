@@ -111,6 +111,6 @@ footer {
   background-image: url("footer.svg") ;
   color: white;
   text-align: center;
-  height: 100vh;
+  /*height: 100vh;*/
   
 }
