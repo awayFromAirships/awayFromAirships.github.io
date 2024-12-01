@@ -7,6 +7,10 @@ title: airshipHave's site
 this site is WIP, but do check out links at the navbar!
 
 
+<navbar class="bartoright">
+Test.
+</navbar>
+
 
 
 
