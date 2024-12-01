@@ -31,7 +31,8 @@ header {
 
 
 nav {
-  background-image: url("nav.svg");
+  /*background-image: url("nav.svg");*/
+  background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 9%, rgba(106,0,126,1) 100%);
   overflow: hidden;
   font-size: large ;
 }
@@ -107,7 +108,7 @@ article p {
 }
 
 .links {
-  background: url("linkbar.svg");
+  background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 0%, rgba(0,126,104,1) 100%);
 }
 
 
