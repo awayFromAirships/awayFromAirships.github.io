@@ -6,7 +6,9 @@ title: airshipHave's site
 
 this site is WIP, but do check out links at the navbar!
 
-
+<aside class="aside">
+    Test
+  </aside>
 
 
 
