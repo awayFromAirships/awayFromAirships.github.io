@@ -33,7 +33,7 @@ header {
 nav {
   /*background-image: url("nav.svg");*/
   /*background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 9%, rgba(106,0,126,1) 100%);*/
-  background: linear-gradient(355deg, rgba(255,255,255,1) 0%, rgba(255,254,254,1) 0%, rgba(255,255,255,1) 0%, 
+  background: linear-gradient(355deg, rgba(255,255,255,1) 0%, rgba(255,254,254,1) 0%, rgba(255,255,255,1) 0%;
   overflow: hidden;
   font-size: medium ;
 }
@@ -109,8 +109,7 @@ article p {
 }
 
 .links {
-  /*background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 0%, rgba(0,126,104,1) 100%);*/
-  background: linear-gradient(355deg, rgba(255,255,255,1) 0%, rgba(255,254,254,1) 0%, rgba(255,255,255,1) 0%, 
+  background: linear-gradient(355deg, rgba(255,255,255,1) 0%, rgba(255,254,254,1) 0%, rgba(255,255,255,1) 0%;
 }
 
 
