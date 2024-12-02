@@ -33,7 +33,7 @@ header {
 nav {
   /*background-image: url("nav.svg");*/
   /*background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 9%, rgba(106,0,126,1) 100%);*/
-  background: linear-gradient(355deg, rgba(255,255,255,1) 0%, rgba(255,254,254,1) 0%, rgba(255,255,255,1) 0%;
+  background: linear-gradient(355deg, rgba(255,255,255,1) 0%, rgba(255,254,254,1) 0%, rgba(255,255,255,1) 0%);
   overflow: hidden;
   font-size: medium ;
 }
@@ -46,6 +46,11 @@ nav ul li {
   padding: 5px 10px;
   margin: 0 5px;
   list-style-type: none;
+}
+
+nav img {
+  height: 40px;
+  width: 40px;
 }
 
 
@@ -109,7 +114,7 @@ article p {
 }
 
 .links {
-  background: linear-gradient(355deg, rgba(255,255,255,1) 0%, rgba(255,254,254,1) 0%, rgba(255,255,255,1) 0%;
+  background: linear-gradient(355deg, rgba(255,255,255,1) 0%, rgba(255,254,254,1) 0%, rgba(255,255,255,1) 0%);
 }
 
 
