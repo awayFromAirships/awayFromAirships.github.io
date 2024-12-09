@@ -32,6 +32,7 @@ Here's a catalogue of some images I've made in no particular order.
 </article>
 <article>
 <img src="static/images/flagOfLithoBelarus.png" alt="1">
+
 <h3> Flag of Belarus and Eastern Lithuania</h3>
 <p>Flag of Lithuania-Belarus which combines the flag of Belarus and the Lithuanian SSR</p>
 </article>
@@ -48,12 +49,12 @@ Here's a catalogue of some images I've made in no particular order.
 <article>
 <img src="static/images/sorbingtime2.png" alt="1">
 <h3>Map of Czecho-Sorbia</h3>
-<p>Slovakia seceded.</p>
+<p>Slovakia seceded. Very unfortunate.</p>
 </article>
 <article>
 <img src="static/images/wavyIskolatWithRiver.png" alt="1">
 <h3> Flag of wavy Latvian SSR</h3>
-<p>Remix of the latvian SSR flag</p>
+<p>Remix of the latvian SSR flag. The Blue wavy stripe represents the river of Daugava</p>
 </article>
 <article>
 <img src="static/images/wavyIskolatWithStar.png" alt="1">
@@ -62,8 +63,8 @@ Here's a catalogue of some images I've made in no particular order.
 </article>
 <article>
 <img src="static/images/czechosorbianFlag.png" alt="1">
-<h3> Flag of Latvian SSR</h3>
-<p>Flag of Czecho-Sorbia.</p>
+<h3> Flag of Cze</h3>
+<p>Flag of Czecho-Sorbia. Just a combo of Czech and the historic Sorb flag</p>
 </article>
 
 </main>
