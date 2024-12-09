@@ -113,11 +113,11 @@ article p {
 
 }
 
-.catalog article img {
-  width: 100%;
-  height: auto;
-  object-fit: cover;
-}
+/*.catalog article img {*/
+/*  width: 100%;*/
+/*  height: auto;*/
+/*  object-fit: cover;*/
+/*}*/
 
 .links {
   /*background-image: linear-gradient(355deg, rgba(255,255,255,1) 0%, rgba(255,254,254,1) 0%, rgba(255,255,255,1) 0%);*/
