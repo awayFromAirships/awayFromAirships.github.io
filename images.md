@@ -66,6 +66,10 @@ Here's a catalogue of some images I've made in no particular order.
 <h3> Flag of Cze</h3>
 <p>Flag of Czecho-Sorbia. Just a combo of Czech and the historic Sorb flag</p>
 </article>
+<img src="static/images/marxistsDotOrg.png" alt="1">
+<h3>marxists.org Wrapped 2024</h3>
+<p>My marxists.org stats for 2024.</p>
+</article>
 
 </main>
 
