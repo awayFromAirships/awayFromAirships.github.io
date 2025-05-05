@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator="Milkys Sitemap Generator, https://github.com/mcmilk/sitemap-generator" -->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
  <loc>https://awayfromairships.github.io/static/template.html</loc>
- <lastmod>2024-11-29</lastmod>
+ <lastmod>2025-04-18</lastmod>
 </url>
 <url>
  <loc>https://awayfromairships.github.io/articles/2024-10-26-benchmarking the look.html</loc>
- <lastmod>2024-11-30</lastmod>
+ <lastmod>2025-05-05</lastmod>
 </url>
 <url>
  <loc>https://awayfromairships.github.io/articles/index.html</loc>
- <lastmod>2024-11-30</lastmod>
-</url>
-<url>
- <loc>https://awayfromairships.github.io/index.html</loc>
- <lastmod>2024-11-30</lastmod>
+ <lastmod>2025-05-05</lastmod>
 </url>
 <url>
  <loc>https://awayfromairships.github.io/images.html</loc>
- <lastmod>2024-11-30</lastmod>
+ <lastmod>2025-05-05</lastmod>
+</url>
+<url>
+ <loc>https://awayfromairships.github.io/index.html</loc>
+ <lastmod>2025-05-05</lastmod>
+</url>
+<url>
+ <loc>https://awayfromairships.github.io/dmMe.html</loc>
+ <lastmod>2025-05-05</lastmod>
 </url>
 </urlset>
